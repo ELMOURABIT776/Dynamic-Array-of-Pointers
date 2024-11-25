@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/ Task 2 Dynamic Array of Pointers/cmake-build-debug/CMakeFiles/_Task_2_Dynamic_Array_of_Pointers.dir
+C:/Users/pc/CLionProjects/ Task 2 Dynamic Array of Pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/ Task 2 Dynamic Array of Pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
